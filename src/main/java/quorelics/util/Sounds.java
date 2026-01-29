@@ -1,6 +1,6 @@
-package basicmod.util;
+package quorelics.util;
 
-import static basicmod.BasicMod.audioPath;
+import static quorelics.QuoRelicsMod.audioPath;
 
 public class Sounds {
     public static String TEST_SOUND = audioPath("test.wav"); //Load audio using a given path

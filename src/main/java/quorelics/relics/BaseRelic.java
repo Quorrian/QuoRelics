@@ -1,15 +1,15 @@
-package basicmod.relics;
+package quorelics.relics;
 
 import basemod.abstracts.CustomRelic;
 import basemod.helpers.RelicType;
-import basicmod.util.GeneralUtils;
-import basicmod.util.TextureLoader;
+import quorelics.util.GeneralUtils;
+import quorelics.util.TextureLoader;
 import com.megacrit.cardcrawl.cards.AbstractCard;
 import com.megacrit.cardcrawl.core.CardCrawlGame;
 import com.megacrit.cardcrawl.helpers.ImageMaster;
 import com.megacrit.cardcrawl.localization.RelicStrings;
 
-import static basicmod.BasicMod.relicPath;
+import static quorelics.QuoRelicsMod.relicPath;
 
 public abstract class BaseRelic extends CustomRelic {
     public AbstractCard.CardColor pool = null;

@@ -1,4 +1,4 @@
-package basicmod.util;
+package quorelics.util;
 
 import basemod.helpers.KeywordColorInfo;
 
