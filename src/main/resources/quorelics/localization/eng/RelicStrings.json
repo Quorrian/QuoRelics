@@ -1,9 +1,9 @@
 {
-  "${modID}:RelicID": {
-    "NAME": "Good Relic",
-    "FLAVOR": "Flavor text displayed in detailed relic view.",
+  "${modID}:Teleporter": {
+    "NAME": "Teleporter",
+    "FLAVOR": "I have done nothing but teleport bread for three days.",
     "DESCRIPTIONS": [
-      "Gain [E] at the start of your turn. [E] is an energy icon."
+      "Whenever you play an Exhaust or Power card from your Deck, add a copy of it and a #yBread to your Discard Pile."
     ]
   }
 }
